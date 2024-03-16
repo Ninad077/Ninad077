@@ -7,7 +7,7 @@
 
 
 - 📫 How to reach me: **ninadmandavkar28@gmail.com**
-- 👨‍💻 All of my Data Science projects are available on: **https://github.com/Ninad077**
+- 👨‍💻 All of my Data Science projects are available on: **[https://github.com/Ninad077](https://github.com/Ninad077?tab=repositories)**
 - 📝Check out my blogs on Machine Learning: **https://medium.com/@ninadmandavkar28**
 - ⚡ Fun fact: **I'm a Potterhead.**
 
