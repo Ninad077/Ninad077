@@ -1,15 +1,16 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi there, I'm Ninad </h1>
-<h3 align="center">Weirdly curious & passionate about Maths & Programming</h3>
+<h3 align="center">Weirdly curious & passionate about Maths, Programming & mystery novels.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ninad077&label=Profile%20views&color=0e75b6&style=flat" alt="Ninad077" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ninad077&theme=" alt="Ninad077" /></a> </p>
 
 
 - 📫 How to reach me: **ninadmandavkar28@gmail.com**
-- 👨‍💻 All of my Data Science projects are available on: **[https://github.com/Ninad077](https://github.com/Ninad077?tab=repositories)**
+- 👨‍💻 All of my Data Science projects are available at: **https://github.com/Ninad077**
 - 📝Check out my blogs on Machine Learning: **https://medium.com/@ninadmandavkar28**
-- ⚡ Fun fact: **I'm a Potterhead.**
+- 🌐 Web applications designed by me: **https://huggingface.co/Ninad077**
+- ⚡ Fun fact **I'm a Potterhead.**
 
 <div> <a href="https://www.linkedin.com/in/ninad-s-mandavkar-12328715b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Ninad077" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
