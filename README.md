@@ -9,7 +9,8 @@
 - 📫 How to reach me: **ninadmandavkar28@gmail.com**
 - 👨‍💻 All of my Data Science projects are available at: **https://github.com/Ninad077**
 - 📝Check out my blogs on Machine Learning: **https://medium.com/@ninadmandavkar28**
-- 🌐 Web applications designed by me: **https://huggingface.co/Ninad077**
+- 🌐 Web applications designed by me (Sign-up required): **https://dashboard.render.com/**
+- 🌐 Sales prediction app: **https://sales-prediction-app.onrender.com/**
 - ⚡ Fun fact **I'm a Potterhead.**
 
 <div> <a href="https://www.linkedin.com/in/ninad-s-mandavkar-12328715b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
