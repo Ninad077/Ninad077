@@ -13,6 +13,7 @@
 - 🌐 Web applications designed by me:
 - 🌐 Sales prediction app: **https://sales-prediction-app.onrender.com/**
 - 🌐 QnA chatbot: **https://huggingface.co/spaces/Ninad077/Chatbot_01**
+- 🌐 Image classifier: **https://huggingface.co/spaces/Ninad077/Image_Classifier_**
   
 - ⚡ Fun fact **I'm a Potterhead.**
 
