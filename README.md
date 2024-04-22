@@ -10,7 +10,10 @@
 - 👨‍💻 All of my Data Science projects are available at: **https://github.com/Ninad077**
 - 📝Check out my blogs on Machine Learning: **https://medium.com/@ninadmandavkar28**
   
-- 🌐 Web applications designed by me:
+- 🌐 Web applications profile:
+      Hugging face profile : **https://huggingface.co/Ninad077**
+      Render profile       : **https://dashboard.render.com/**
+  
 - 🌐 Sales prediction app: **https://sales-prediction-app.onrender.com/**
 - 🌐 QnA chatbot: **https://huggingface.co/spaces/Ninad077/Chatbot_01**
 - 🌐 Image classifier: **https://huggingface.co/spaces/Ninad077/Image_Classifier_**
