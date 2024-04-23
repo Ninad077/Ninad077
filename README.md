@@ -12,7 +12,7 @@
   
 - 🌐 Web applications profile:
       Hugging face profile : **https://huggingface.co/Ninad077**
-      Render profile       : **https://dashboard.render.com/**
+  
   
 - 🌐 Sales prediction app: **https://sales-prediction-app.onrender.com/**
 - 🌐 QnA chatbot: **https://huggingface.co/spaces/Ninad077/Chatbot_01**
