@@ -15,7 +15,7 @@
   
   
 - 🌐 Sales prediction app: **https://sales-prediction-app.onrender.com/**
-- 🌐 QnA chatbot: **https://huggingface.co/spaces/Ninad077/Chatbot_01**
+- 🌐 Unicorn (Chatbot): **https://huggingface.co/spaces/Ninad077/Unicorn** 
 - 🌐 Image classifier: **https://huggingface.co/spaces/Ninad077/Image_Classifier_**
   
 - ⚡ Fun fact **I'm a Potterhead.**
