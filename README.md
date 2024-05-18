@@ -19,7 +19,8 @@
 - 🌐 Image classifier: **https://huggingface.co/spaces/Ninad077/Image_Classifier_**
 
 - 🌐 Eclipse: **https://eclipse-ogrq.onrender.com/**
-      Eclipse is an open source web application designed by me to teach Python preprocessing, Machine Learning & Deep Learning from scratch. 
+
+    **Eclipse** is an open source web application designed by me to teach Python preprocessing, Machine Learning & Deep Learning from scratch. 
   
 - ⚡ Fun fact **I'm a Potterhead.**
 
