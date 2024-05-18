@@ -17,6 +17,9 @@
 - 🌐 Sales prediction app: **https://sales-prediction-app.onrender.com/**
 - 🌐 Unicorn (Chatbot): **https://huggingface.co/spaces/Ninad077/Unicorn** 
 - 🌐 Image classifier: **https://huggingface.co/spaces/Ninad077/Image_Classifier_**
+
+- 🌐 Eclipse: **https://eclipse-ogrq.onrender.com/**
+      Eclipse is an open source web application designed by me to teach Python preprocessing, Machine Learning & Deep Learning from scratch. 
   
 - ⚡ Fun fact **I'm a Potterhead.**
 
