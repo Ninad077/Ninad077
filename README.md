@@ -20,7 +20,9 @@
 
 - 🌐 Eclipse: **https://eclipse-ogrq.onrender.com/**
 
-    **Eclipse** is an open source web application designed by me to teach Python preprocessing, Machine Learning & Deep Learning from scratch. 
+    **Eclipse** is an open source web application designed by me to teach Python preprocessing, Machine Learning & Deep Learning from scratch.
+
+  Sidenote: In case of trouble rendering the notebooks on Github use nbviewer to view them: **https://nbviewer.org/**
   
 - ⚡ Fun fact **I'm a Potterhead.**
 
