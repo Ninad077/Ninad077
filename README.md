@@ -12,11 +12,6 @@
   
 - 🌐 Web applications profile:
       Hugging face profile : **https://huggingface.co/Ninad077**
-  
-  
-- 🌐 Sales prediction app: **https://sales-prediction-app.onrender.com/**
-- 🌐 Unicorn (Chatbot): **https://huggingface.co/spaces/Ninad077/Unicorn** 
-- 🌐 Image classifier: **https://huggingface.co/spaces/Ninad077/Image_Classifier_**
 
 - 🌐 Eclipse: **https://eclipsev2.streamlit.app/**
 
