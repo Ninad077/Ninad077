@@ -18,7 +18,7 @@
 - 🌐 Unicorn (Chatbot): **https://huggingface.co/spaces/Ninad077/Unicorn** 
 - 🌐 Image classifier: **https://huggingface.co/spaces/Ninad077/Image_Classifier_**
 
-- 🌐 Eclipse: **https://eclipse-ogrq.onrender.com/**
+- 🌐 Eclipse: **https://eclipsev2.streamlit.app/**
 
     **Eclipse** is an open source web application designed by me to teach Python preprocessing, Machine Learning & Deep Learning from scratch.
 
