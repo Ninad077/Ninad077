@@ -18,7 +18,28 @@
     **Eclipse** is an open source web application designed by me to teach Python preprocessing, Machine Learning & Deep Learning from scratch.
 
   Sidenote: In case of trouble rendering the notebooks on Github copy-paste the repository url in nbviewer to view them: **https://nbviewer.org/**
-  
+
+- 🔥 **New Release: Fyrefly v0.2.1**
+
+    **Fyrefly** is a Quant based Python library I built to compute mathematical operations. Each function accepts any number of arguments, making common quant/utility math cleaner to write.
+
+    ```
+    pip install fyrefly
+    ```
+
+    ```python
+    from fyrefly import add, mul, div, mod
+
+    add(5, 4, 6, 10)     # 25
+    mul(5, 4, 6, 10)     # 1200
+    div(100, 5, 2)       # 10.0
+    mod(17, 5)           # 2
+    ```
+
+    - 📦 PyPI: **https://pypi.org/project/fyrefly/**
+    - 💻 GitHub: **https://github.com/Ninad077/fyrefly**
+    - 📜 License: MIT
+
 - ⚡ Fun fact **I'm a Potterhead.**
 
 <div> <a href="https://www.linkedin.com/in/ninad-s-mandavkar-12328715b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
