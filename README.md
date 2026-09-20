@@ -52,7 +52,7 @@ Open source web app teaching **Python preprocessing, ML & DL** from scratch.
 <td width="50%" valign="top">
 
 #### 🔥 Fyrefly
-A **Quant-based Python library** for mathematical operations — every function takes any number of arguments.
+A **Quant-based Python library** for flexible math operations and SQL-powered data analysis — every function takes any number of arguments, and data flows straight from CSV/Excel/Google Sheets into real SQL queries.
 
 <a href="https://pypi.org/project/fyrefly/" target="_blank"><img src="https://img.shields.io/pypi/v/fyrefly?color=0e75b6&label=PyPI&logo=pypi&logoColor=white" /></a>
 <a href="https://github.com/Ninad077/fyrefly" target="_blank"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
@@ -63,11 +63,17 @@ pip install fyrefly
 ```
 ```python
 from fyrefly import add, mul, div, mod
+from fyrefly import load, loadh, loadc, loads, sql, xtract
 
+# Math — any count of arguments
 add(5, 4, 6, 10)   # 25
-mul(5, 4, 6, 10)   # 1200
-div(100, 5, 2)     # 10.0
 mod(17, 5)         # 2
+
+# Data — load, preview, query with real SQL, export
+c = load("data.csv")
+loadh(c)                              # preview headers
+sql("select * from c where age > 30")
+xtract(sql("select * from c"))        # export result to CSV
 ```
 
 </td>
