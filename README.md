@@ -52,7 +52,7 @@ Open source web app teaching **Python preprocessing, ML & DL** from scratch.
 <td width="50%" valign="top">
 
 #### 🔥 Fyrefly
-A **Quant-based Python library** for flexible math operations and SQL-powered data analysis — every function takes any number of arguments, and data flows straight from CSV/Excel/Google Sheets into real SQL queries.
+A **Quant-based Python library** spanning flexible math, financial formulas, equation solvers, trigonometry, SQL-powered data analysis, AI-driven insights, and visualization — every function takes any number of arguments.
 
 <a href="https://pypi.org/project/fyrefly/" target="_blank"><img src="https://img.shields.io/pypi/v/fyrefly?color=0e75b6&label=PyPI&logo=pypi&logoColor=white" /></a>
 <a href="https://github.com/Ninad077/fyrefly" target="_blank"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
@@ -62,18 +62,21 @@ A **Quant-based Python library** for flexible math operations and SQL-powered da
 pip install fyrefly
 ```
 ```python
-from fyrefly import add, mul, div, mod
-from fyrefly import load, loadh, loadc, loads, sql, xtract
+from fyrefly import add, mod, si, ap, eqn, sin
+from fyrefly import load, sql, ask, viz
 
-# Math — any count of arguments
-add(5, 4, 6, 10)   # 25
-mod(17, 5)         # 2
+# Math & Quant — any count of arguments
+add(5, 4, 6, 10)          # 25
+si(1000, 2, 5)            # 100.0  (Simple Interest)
+ap.tn(2, 3, 4)             # 11     (nth term of an AP)
+eqn.q(1, -3, 2)            # roots of x^2 - 3x + 2 = 0
+sin(30)                    # 0.5    (degrees by default)
 
-# Data — load, preview, query with real SQL, export
+# Data + AI + Viz — load, query with SQL, ask in English, visualize
 c = load("data.csv")
-loadh(c)                              # preview headers
 sql("select * from c where age > 30")
-xtract(sql("select * from c"))        # export result to CSV
+ask(c, "average salary by department?", api_key="...")
+viz.bar("department", "salary")
 ```
 
 </td>
